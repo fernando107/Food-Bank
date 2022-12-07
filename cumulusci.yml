@@ -3,8 +3,8 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
-        api_version: '55.0'
         namespace: foodbanknpsp
+        api_version: '55.0'
     git:
         default_branch: 'main'
     source_format: sfdx
